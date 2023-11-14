@@ -40,7 +40,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home  
-  <img src="images/Screenshot_20231114_133212_Chrome" width="375px" alt="homepagina">
+  <img src="readme-images/Screenshot_20231114_133212_Chrome.jpg" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Lid worden  
