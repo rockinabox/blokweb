@@ -44,7 +44,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Lid worden  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="prijzen voor inschrijven en inschrijfformulier">
+  <img src="readme-images/Screenshot_20231114_133317_Chrome.jpg" width="375px" alt="prijzen voor inschrijven en inschrijfformulier">
  
 </details>
 
