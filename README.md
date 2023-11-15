@@ -57,6 +57,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+  - Hier en daar worden woorden gespeld ipv uitgelezen, waarschijnlijk komt dit doordat het is caps is geschreven.
+  - Er worden knoppen aan de zijkant van het scherm voorgelezen die er helemaal niet zijn.
+  - Sommige onderdelen worden van onder naar boven gelezen ipv boven naar beneden.
+  - Bij knoppen wordt er vaak alleen gezegd 'koppeling' maar niet waar het naartoe gaat.
+  - Afbeelding en titel artiekel hebben dezelfde naam waardoor de titel twee keer wordt opgelezen.
 
 </details>
 
