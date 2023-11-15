@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Blauw
 
   #### Je focus:
-  Aandacht op surface laag
+  Responsiveness
  
 </details>
 
@@ -43,8 +43,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/Screenshot_20231114_202643_Chrome.jpg" width="375px" alt="homepagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Lid worden  
-  <img src="readme-images/Screenshot_20231114_202726_Chrome.jpg" width="375px" alt="prijzen voor inschrijven en inschrijfformulier">
+  Badminton pagina  
+  <img src="readme-images/Screenshot_20231114_202726_Chrome.jpg" width="375px" alt="overzichtspagina van teamnl badminton">
  
 </details>
 
