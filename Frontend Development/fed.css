@@ -170,6 +170,7 @@ main{
     height: 3px;
     background-color: #ff6d2d;
     margin: 6px 0px;
+    transition: 1s;
 }
 
 .hamburger.is-active:before{
@@ -190,11 +191,11 @@ main{
     left: 100%;
     width: 100%;
     min-height: 100vh;
-    z-index: 98;
     background-image: url(images/background-header.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     padding-top: 120px;
+    transition: 1s;
 }
 
 .mobile-nav.is-active{
@@ -1082,9 +1083,9 @@ footer article{
     grid-row: 2/3;
 }
 
-.banner li:nth-of-type(1) img{
+.banner li:nth-of-type(1) video{
     max-width: 30em;
-    margin-left: -2em;
+    margin-left: -1em;
 }
 
 .banner li:nth-of-type(2) h1{
