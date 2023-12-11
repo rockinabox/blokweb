@@ -95,8 +95,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Bij de eerste meeting liet ik mijn HTML pagina's checken door één van de studentassistenten, hieruit heb ik te horen gekregen dat het er prima uit zag en dat ik kon beginnen met het stylen van de pagina's.
 
-  ### Agenda voor meeting
+  ### Agenda voor meeting (niet gedaan??)
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -104,15 +105,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
 
 </details>
 
@@ -128,8 +120,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Ik was niet aanwezig bij deze meeting.
 
-  ### Agenda voor meeting
+  ### Agenda voor meeting (niet gedaan??)
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -137,16 +130,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
 </details>
 
 
@@ -160,6 +143,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  
+  Standaard zit er in de code dat je kan zien welk element je "bekijkt" met de screenreader, dit is in mijn site dus wel aanwezig maar bij de originele niet.
+  Eigenlijk is het kleurgebruik helemaal niet goed volgens a11yprojects, oranje op wit en andersom "mag" eigenlijk niet.
+
+  Alle afbeeldingen toegankelijkheidstest:
+  <img src="readme-images/WCAG1.jpg" width="375px" alt="WCAG pagina 1">
+  <img src="readme-images/WCAG2.jpg" width="375px" alt="WCAG pagina 2">
+  <img src="readme-images/WCAG3.jpg" width="375px" alt="WCAG pagina 3">
+  <img src="readme-images/WCAG4.jpg" width="375px" alt="WCAG pagina 4">
+  <img src="readme-images/WCAG5.jpg" width="375px" alt="WCAG pagina 5">
 
 </details>
 
@@ -175,8 +168,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  Dit was de laatste kans om feedback te krijgen op je code. Ik liet mijn code zien aan de docent, er waren hier en daar wat semantische dingentjes in de html waar over gediscussieerd kon worden.
+  De styling van de pagina zag er goed professioneel uit.
 
-  ### Agenda voor meeting
+  ### Agenda voor meeting (niet gedaan??)
   samen met je groepje opstellen
 
   | student 1      | student 2          | student 3    | student 4        |
@@ -189,10 +184,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - professionele styling
+  - hier en daar wat semantische dingen op te merken in de html
+  - beetje last van gebruik van veel classes
 
 </details>
 
@@ -206,19 +200,24 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/karakteristiek.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  Na een tijdje te worstelen is het mij gelukt om een hamburger menu te maken met een kleine transitie in zowel de knop als het menu zelf.
+
+  <img src="readme-images/hamburger_menu.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  Helaas is het niet gelukt om de carrousel (plaatje van originele website) bij mij hetzelfde te laten werken.
+  De scroll-snap wou het maar niet doen dus nu is het alleen mogelijk om er met de hand, vloeiend doorheen te scrollen.
+
+  <img src="readme-images/carrousel.png" width="375px" alt="bummer">
 </details>
 
 
@@ -234,8 +233,5 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Nb. ChatGpT en andere AI horen er ook bij.
   Nb. Vermeld de bronnen ook in je code.
 
-  1. bron 1
-  2. bron 2
-  3. ...
-
+  1. https://www.youtube.com/watch?v=OFKBep95lb4&t=867s&ab_channel=TylerPotts
 </details>
