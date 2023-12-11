@@ -1,41 +1,8 @@
-/*fonts*/
-
 @font-face {
     font-family: groteskRegular;
     src: url(fonts/hkgrotesk-regular.woff2);
 }
 
-@font-face {
-    font-family: groteskBold;
-    src: url(fonts/hkgrotesk-bold.woff2);
-}
-
-@font-face {
-    font-family: groteskSemibold;
-    src: url(fonts/hkgrotesk-semibold.woff2);
-}
-
-@font-face {
-    font-family: novaBold;
-    src: url(fonts/HKNova-Bold.woff2);
-}
-
-@font-face {
-    font-family: novaExtrabold;
-    src: url(fonts/HKNova-ExtraBold.woff2);
-}
-
-@font-face {
-    font-family: novaHeavy;
-    src: url(fonts/HKNova-Heavy.woff2);
-}
-
-@font-face {
-    font-family: novaSemibold;
-    src: url(fonts/HKNova-SemiBold.woff2);
-}
-
-/*fonts end*/
 
 
 body{
@@ -108,13 +75,13 @@ main{
 
 
 /*header*/
-.container {
+.logoHead {
     display: inline-block;
     margin-left: 0.4em;
     margin-top: 0.4em;
 }
 
-.container img {
+.logoHead img {
     height: 1.5em;
 }
 
@@ -149,7 +116,7 @@ main{
 }
 
 
-/*hamburger*/
+/*hamburger source: https://www.youtube.com/watch?v=OFKBep95lb4&t=867s&ab_channel=TylerPotts*/
 .hamburger{
     position: absolute;
     right: 1em;
